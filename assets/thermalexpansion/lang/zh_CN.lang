@@ -275,7 +275,7 @@ item.thermalexpansion.material.gearCopper.name=铜齿轮
 item.thermalexpansion.material.gearTin.name=锡齿轮
 item.thermalexpansion.material.gearElectrum.name=琥珀金齿轮
 item.thermalexpansion.material.gearInvar.name=因瓦合金齿轮
-item.thermalexpansion.material.gearBronze.name=
+item.thermalexpansion.material.gearBronze.name=青铜齿轮
 item.thermalexpansion.material.gearEnderium.name=末影齿轮
 
 item.thermalexpansion.material.rodBlizz.name=暴雪棒
@@ -399,7 +399,7 @@ tile.thermalexpansion.storage.nickel.name=镍块
 tile.thermalexpansion.storage.platinum.name=铂块
 tile.thermalexpansion.storage.electrum.name=琥珀金块
 tile.thermalexpansion.storage.invar.name=因瓦合金块
-tile.thermalexpansion.storage.bronze.name
+tile.thermalexpansion.storage.bronze.name=青铜块
 tile.thermalexpansion.storage.enderium.name=末影块
 
 tile.thermalexpansion.strongbox.creative.name=创造保险箱
